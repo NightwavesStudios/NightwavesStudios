@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NightwavesStudios
-- 👀 I’m interested in Fullstack HTML Web Development
-- 🌱 I’m currently learning the MEVN stack
-- 🧑‍💻 I am currently working on a site called CulinaryShare
+- 👋 Hi, I’m @NightwavesStudios (Chris Henry)
+- 👀 I’m interested in Web Development, both frontend and backend.
+- 🌱 I’m currently learning the MERN stack as well as C++ and Java.
+- 🧑‍💻 I am currently working on a new site oriented towards top rope climbing and bouldering.
 
 <!---
 NightwavesStudios/NightwavesStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
