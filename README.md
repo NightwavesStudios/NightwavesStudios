@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NightwavesStudios (Chris Henry)
 - 👀 I’m interested in Web Development, both frontend and backend.
 - 🌱 I’m currently learning the MERN stack as well as C++ and Java.
-- 🧑‍💻 I am currently working on a new site oriented towards top rope climbing and bouldering.
+- 🧑‍💻 I am currently working on a climbing site oriented towards improving others climbing ability through various tools and resources.
 
 <!---
 NightwavesStudios/NightwavesStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
